@@ -4,8 +4,11 @@ The project aims to develop a computer vision system that automates the identifi
 Irrigation Treatments:
 
 Rainfed: Relying solely on natural rainfall for watering the cotton crops.
+
 Time Delay: Applying irrigation with a certain delay to simulate water stress conditions.
+
 Percent Deficit: Providing water at a reduced percentage of the crop's full water requirement.
+
 Fully Irrigated: Ensuring the crops receive the full amount of water needed for optimal growth.
 
 The focus of this project was to develop an algorithm to classify the irrigation treatment of a cotton image using computer vision techniques. This is an important task as cotton is a significant commercial crop in the United States, and it is essential to use the available water resources sustainably. With frequent droughts and declining groundwater levels, it is crucial to maximize crop water use efficiency and reduce water requirements in regions where water resources are deficient. Traditional irrigation scheduling methods may not accurately estimate crop water requirements, and this is where computer vision techniques can play a vital role.
