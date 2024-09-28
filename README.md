@@ -1,4 +1,4 @@
-# CNN_image_classification
+# Automated Irrigation Treatment Classification in Cotton Fields Using Computer Vision
 The project aims to develop a computer vision system that automates the identification of different irrigation treatments in cotton fields using aerial images. This is crucial for optimizing water usage and improving the efficiency of irrigation practices, thereby enhancing crop yield and sustainability in regions facing water scarcity.
 
 Irrigation Treatments:
